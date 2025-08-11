@@ -8,15 +8,20 @@ Ce dépôt contient des recettes au format Markdown. Chaque étudiant devra :
 - Ajouter une nouvelle recette
 - Proposer des améliorations à une recette existante
 
+|Descritpion     | Libellé     | Prix     |
+|----------------|-------------|----------|
+|Lait d'avoine| LAITAV|10|
+|Paint complet| PAINCOMP|6|
+
 
 ## Comment participer
 
 
     **Cloner** le dépôt sur votre machine.
 
-    **Créer une branche** nommée ***prenom-nouvelle-recette***.
+    **Créer une branche** nommée **prenom-nouvelle-recette**.
 
-    Dans le dossier ***recettes/***, ajoutez une recette de votre choix (format .md).
+    Dans le dossier **recettes**, ajoutez une recette de votre choix (format .md).
 
     **Ajoutez un commit** décrivant l’ajout de la recette.
 
@@ -35,3 +40,4 @@ Ce dépôt contient des recettes au format Markdown. Chaque étudiant devra :
     **Partagez le lien** de votre dépôt dans le champs dédié
 
 Bonne chance !
+
